@@ -9,13 +9,13 @@ This repository contains the advanced topics of Computer Vision from Coursera.or
 - **Transfer Learning for binary classification** [(this file)](./01_transfer_learning_cats_dogs.ipynb)
     
     Binary Classification on cats and dogs dataset
-- **Transfer Learning for multi-class classification** [this file](./02_Transfer_Learning_CIFAR_10.ipynb)
+- **Transfer Learning for multi-class classification** [(this file)](./02_Transfer_Learning_CIFAR_10.ipynb)
     
     Multi-Class classification on CIFAR-10 dataset
 
-- **Object Localization** [this file](./03_Object_Localization.ipynb)
+- **Object Localization** [(this file)](./03_Object_Localization.ipynb)
 
-    In this lab, you'll build a CNN from scratch to:
+    In this notebook, you'll build a CNN from scratch to:
 
     - classify the main subject in an image
     localize it by drawing bounding boxes around it.
