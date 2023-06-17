@@ -3,6 +3,9 @@
 
 This repository serves as a roadmap to my collection of advanced Computer Vision projects implemented with TensorFlow.
 
+Please feel free to contribute in these repositories.
+
+
 ## Content:
 
 - **Transfer Learning for binary classification** [(link)](https://github.com/barzansaeedpour/transfer-learning-for-binary-classification-tensorflow)
@@ -28,4 +31,3 @@ This repository serves as a roadmap to my collection of advanced Computer Vision
     - Calculate the IOU (Intersection Over Union) metric to evaluate the model's performance
 
 
-Please feel free to contribute in this repository.
