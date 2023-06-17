@@ -1,7 +1,7 @@
 # Advanced Computer Vision with TensorFlow
 
 
-This repository serves as a roadmap to my collection of advanced Computer Vision projects implemented with TensorFlow.
+This repository serves as a roadmap to my advanced Computer Vision projects implemented with TensorFlow.
 
 Please feel free to contribute in these repositories.
 
