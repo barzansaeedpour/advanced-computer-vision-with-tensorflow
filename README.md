@@ -1,21 +1,19 @@
 # Advanced Computer Vision with TensorFlow
 
 
-This repository contains the advanced topics of Computer Vision with TensorFlow.
-
-Eeach file contains a topic with code and explaination.
+This repository serves as a roadmap to my collection of advanced Computer Vision projects implemented with TensorFlow.
 
 ## Content:
 
-- **Transfer Learning for binary classification** [(this file)](./01_transfer_learning_cats_dogs.ipynb)
+- **Transfer Learning for binary classification** [(link)](https://github.com/barzansaeedpour/transfer-learning-for-binary-classification-tensorflow)
 
-    This notebook covers transfer learning topic. A binary classifier is trained on cats and dogs dataset.
+    This repository provides a practical guide on using transfer learning for binary classification tasks using TensorFlow.
      
-- **Transfer Learning for multi-class classification** [(this file)](./02_Transfer_Learning_CIFAR_10.ipynb)
+- **Transfer Learning for multi-class classification** [(link)](https://github.com/barzansaeedpour/transfer-learning-for-multi-class-classification-CIFAR-10)
     
-    Multi-Class classification on CIFAR-10 dataset
+    This repository contains code and resources for performing multi-class classification on the CIFAR-10 dataset using transfer learning. 
 
-- **Object Localization** [(this file)](./03_Object_Localization.ipynb)
+- **Object Localization and Classification with One Network on MNIST Dataset** [(link)](https://github.com/barzansaeedpour/object-localization-and-classification-with-one-network)
 
     In this notebook, you'll build a CNN from scratch to:
 
