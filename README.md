@@ -30,4 +30,15 @@ Please feel free to contribute in these repositories.
 
     - Calculate the IOU (Intersection Over Union) metric to evaluate the model's performance
 
+- **Predicting Bounding Boxes for Object Detection** [(link)](https://github.com/barzansaeedpour/predicting-bounding-boxes-for-image-detection)
 
+    - In this repository we use tensorflow hub pretrained modules to detect objects in images and draw bounding boxes around the detected objects using the outputs.
+
+- **Interactive Eager Few Shot Od Training Colab** [(link)](https://github.com/barzansaeedpour/interactive-eager-few-shot-od-training-colab)
+
+    - In this repository we demonstrate fine tuning of a (TF2 friendly) RetinaNet architecture on very few examples of a novel class after initializing from a pre-trained COCO checkpoint.
+
+- **Few-Shot Learning with Only 5 Images** [(link)](https://github.com/barzansaeedpour/few-shot-learning-using-just-5-images)
+
+
+    - In this repository, we leverage the power of few-shot learning combined with a transfer learning approach to tackle the task of object detection.
